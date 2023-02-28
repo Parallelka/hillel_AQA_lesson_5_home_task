@@ -1,4 +1,4 @@
-# hillel_lesson_5_home_task
+# hillel_AQA_lesson_5_home_task
 task_dynasty
 
 ДЗ 3. Китайскі династії
